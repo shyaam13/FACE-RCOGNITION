@@ -1,0 +1,1 @@
+"C:\Users\shyaa\AppData\Local\Programs\Python\Python36-32\python.exe" "C:\Users\shyaa\Desktop\Lock_Unlock_Using_Face_Recognition\lock_unlock_face_recognition.py" %*
